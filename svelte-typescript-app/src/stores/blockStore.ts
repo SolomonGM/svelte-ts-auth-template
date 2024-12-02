@@ -1,0 +1,1 @@
+//Stores for Block states (e.g. Course block "Biology" Active = true etc....)
